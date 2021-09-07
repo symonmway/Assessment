@@ -1,0 +1,10 @@
+Question 1
+=======================================================================================
+You have the CarSales that contains the information about car sales from a car dealer. 
+It has the columns [CarMaker, CarModel, SalePriceInDollar, SaleDate]. 
+Write a SQL query to get the total sale price per maker and model from the past 30 days.
+========================================================================================
+
+SELECT CarMaker, CarModel, sum(SalePriceInDollar) as TotalSalePrice
+FROM CarSales where SaleDate between  DATEADD(day,-30,GETDATE()) and GETDATE()
+GROUP BY CarMaker,CarModel

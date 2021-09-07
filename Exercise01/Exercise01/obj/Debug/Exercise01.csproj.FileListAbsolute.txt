@@ -1,0 +1,5 @@
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\Exercise01\Exercise01\bin\Debug\Exercise01.dll
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\Exercise01\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\Exercise01\Exercise01\obj\Debug\Exercise01.csprojResolveAssemblyReference.cache
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\Exercise01\Exercise01\obj\Debug\Exercise01.dll
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\Exercise01\Exercise01\obj\Debug\Exercise01.pdb
