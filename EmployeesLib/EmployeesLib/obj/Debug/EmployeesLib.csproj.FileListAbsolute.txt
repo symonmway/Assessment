@@ -1,0 +1,5 @@
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\EmployeesLib\EmployeesLib\bin\Debug\EmployeesLib.dll
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\EmployeesLib\EmployeesLib\bin\Debug\EmployeesLib.pdb
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\EmployeesLib\EmployeesLib\obj\Debug\EmployeesLib.csprojResolveAssemblyReference.cache
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\EmployeesLib\EmployeesLib\obj\Debug\EmployeesLib.dll
+C:\Users\Anita\Documents\Visual Studio 2015\Projects\Interview\EmployeesLib\EmployeesLib\obj\Debug\EmployeesLib.pdb
